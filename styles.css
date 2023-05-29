@@ -7,6 +7,9 @@
 html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
+}
+
+body.dark {
   color: white;
 }
 
