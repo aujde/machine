@@ -1,0 +1,23 @@
+{
+  "name": "machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile-sass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aujde/machine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aujde/machine/issues"
+  },
+  "homepage": "https://github.com/aujde/machine#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

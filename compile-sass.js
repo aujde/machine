@@ -1,5 +1,4 @@
 const sass = require('node-sass');
-const chokidar = require('chokidar');
 const fs = require('fs');
 
 const inputFile = 'styles.scss';
